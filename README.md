@@ -45,5 +45,5 @@
 
 
 [instagram]: https://www.instagram.com/_yassi_kula_/
-[linkedin]: linkedin.com/in/yasasi-kulathunge-727ab3167
+[linkedin]: https://www.linkedin.com/in/yasasi-kulathunge-727ab3167/
 

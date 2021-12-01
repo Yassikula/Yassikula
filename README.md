@@ -1,13 +1,14 @@
 ### Hi there, I'm Yasasi 👋 
 
 
-<p> I'm a quick learner , hard worker quick learner and student who seek opportunities to enhance and share my knowledge </p>
+<p> I'm a quick learner , hard worker and student who seek opportunities to enhance and share my knowledge </p>
 
 
 ## I'm a Full Stack Developer!
 
 
 - 🌱 I’m currently learning everything 🤣
+- 💻 I have 6 months of work experience at SmartIdeas as a trainee system engineer
 - ⚙️ I use daily: .php, .js, .html, .css, .svg, .psd
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play guitar 🎸
